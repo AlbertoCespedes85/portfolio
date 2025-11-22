@@ -1,0 +1,26 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+li , p , label {
+  color: white;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1; }
+  h1 ,h2 ,h3 ,h4, h5 {
+    color: rgb(165, 206, 245);
+    font-weight: bold;
+}
