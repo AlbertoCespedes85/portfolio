@@ -1,1 +1,0 @@
-import{d as e,f as t,u as n}from"./index-BP3EBu9J.js";e();var r=t(n(),1),i=()=>(0,r.jsx)(`section`,{children:(0,r.jsx)(`h1`,{children:`Proximamente`})});export{i as default};
