@@ -1,1 +1,0 @@
-import{S as e,b as t,x as n}from"./index-uMaMdqe4.js";n();var r=e(t(),1),i=()=>(0,r.jsx)(`section`,{children:(0,r.jsx)(`h1`,{children:`Proximamente`})});export{i as default};
