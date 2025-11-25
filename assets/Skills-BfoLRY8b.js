@@ -1,0 +1,1 @@
+import{S as e,w as t,x as n}from"./index-DS6cW2Q3.js";e();var r=t(n(),1),i=()=>(0,r.jsx)(`section`,{children:(0,r.jsx)(`h1`,{children:`Proximamente`})});export{i as default};
